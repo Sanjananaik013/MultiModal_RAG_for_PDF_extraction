@@ -74,11 +74,11 @@ Key Workflows
 
 🖥️ How to Use
 
-1. Start server:
+1. Start server-
    
      uvicorn main_mcp:app --reload
    
-2. Start streamlit app:
+2. Start streamlit app in another terminal-
    
      streamlit run app.py
    
